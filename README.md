@@ -1,5 +1,4 @@
 ## Full Stack Developer | Machine Learning Enthusiast 
-![Coding GIF]([https://media.giphy.com/media/KvCVG0AHlvBuM/giphy.gif](https://tenor.com/en-GB/view/ngoding-mulu-gif-1747207714643625346))
 
 
 
